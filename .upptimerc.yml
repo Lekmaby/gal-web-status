@@ -1,31 +1,31 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: Lekmaby # Your GitHub username
+repo: gal-web-status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Галактика ИТ
+    url: https://galaktika-it.ru/
+  - name: Вузпортал
+    url: https://vuzportal.ru/
+  - name: Демо Вузпортал
+    url: https://demo.vuzportal.ru/
+  - name: NPM
+    url: http://npm.vuzportal.ru:4873/
+  - name: ЛКА Тест
+    url: https://lka-v6.vuzportal.ru/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  baseUrl: /gal-web-status
+  logoUrl: https://galaktika-it.ru/wp-content/uploads/2019/09/r_blue_on_tp_crop.png
+  name: Галактика ИТ
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introMessage: Статус систем
   navbar:
-    - title: Status
+    - title: Статус
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
