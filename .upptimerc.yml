@@ -14,8 +14,8 @@ sites:
     url: http://npm.vuzportal.ru:4873/
   - name: LKA Test
     url: https://lka-v6.vuzportal.ru/
-  - name: LKA Test
-    url: https://lka-v6.vuzportal.ru/
+  - name: Directum
+    url: https://dirrx.galaktika-it.ru/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
