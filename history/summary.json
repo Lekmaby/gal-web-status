@@ -1,27 +1,27 @@
 [
   {
-    "name": "Галактика ИТ",
+    "name": "Site",
     "url": "https://galaktika-it.ru/",
-    "slug": "galaktika-it",
+    "slug": "site",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2096
+    "time": 1779
   },
   {
-    "name": "Вузпортал",
+    "name": "VuzPortal",
     "url": "https://vuzportal.ru/",
-    "slug": "vuzportal",
+    "slug": "vuz-portal",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1279
+    "time": 1138
   },
   {
-    "name": "Демо Вузпортал",
+    "name": "Demo VuzPortal",
     "url": "https://demo.vuzportal.ru/",
-    "slug": "demo-vuzportal",
+    "slug": "demo-vuz-portal",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1354
+    "time": 1120
   },
   {
     "name": "NPM",
@@ -29,14 +29,22 @@
     "slug": "npm",
     "status": "up",
     "uptime": "100.00%",
-    "time": 941
+    "time": 790
   },
   {
-    "name": "ЛКА Тест",
+    "name": "LKA Test",
     "url": "https://lka-v6.vuzportal.ru/",
     "slug": "lka-test",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1073
+    "time": 712
+  },
+  {
+    "name": "LKA Test",
+    "url": "https://lka-v6.vuzportal.ru/",
+    "slug": "lka-test",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 712
   }
 ]
