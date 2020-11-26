@@ -5,7 +5,7 @@
     "slug": "site",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1779
+    "time": 1983
   },
   {
     "name": "VuzPortal",
@@ -13,7 +13,7 @@
     "slug": "vuz-portal",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1138
+    "time": 1211
   },
   {
     "name": "Demo VuzPortal",
@@ -21,7 +21,7 @@
     "slug": "demo-vuz-portal",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1120
+    "time": 1247
   },
   {
     "name": "NPM",
@@ -29,7 +29,7 @@
     "slug": "npm",
     "status": "up",
     "uptime": "100.00%",
-    "time": 790
+    "time": 825
   },
   {
     "name": "LKA Test",
@@ -37,14 +37,14 @@
     "slug": "lka-test",
     "status": "up",
     "uptime": "100.00%",
-    "time": 712
+    "time": 858
   },
   {
-    "name": "LKA Test",
-    "url": "https://lka-v6.vuzportal.ru/",
-    "slug": "lka-test",
+    "name": "Directum",
+    "url": "https://dirrx.galaktika-it.ru/",
+    "slug": "directum",
     "status": "up",
     "uptime": "100.00%",
-    "time": 712
+    "time": 1201
   }
 ]
