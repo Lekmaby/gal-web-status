@@ -4,15 +4,17 @@ repo: gal-web-status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Галактика ИТ
+  - name: Site
     url: https://galaktika-it.ru/
-  - name: Вузпортал
+  - name: VuzPortal
     url: https://vuzportal.ru/
-  - name: Демо Вузпортал
+  - name: Demo VuzPortal
     url: https://demo.vuzportal.ru/
   - name: NPM
     url: http://npm.vuzportal.ru:4873/
-  - name: ЛКА Тест
+  - name: LKA Test
+    url: https://lka-v6.vuzportal.ru/
+  - name: LKA Test
     url: https://lka-v6.vuzportal.ru/
 
 status-website:
