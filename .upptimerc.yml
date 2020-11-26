@@ -4,17 +4,17 @@ repo: gal-web-status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Site
+  - name: Site: galaktika-it.ru
     url: https://galaktika-it.ru/
-  - name: VuzPortal
+  - name: VuzPortal: vuzportal.ru
     url: https://vuzportal.ru/
-  - name: Demo VuzPortal
+  - name: Demo VuzPortal: demo.vuzportal.ru
     url: https://demo.vuzportal.ru/
-  - name: NPM
+  - name: NPM: npm.vuzportal.ru:4873
     url: http://npm.vuzportal.ru:4873/
-  - name: LKA Test
+  - name: LKA Test: lka-v6.vuzportal.ru
     url: https://lka-v6.vuzportal.ru/
-  - name: Directum
+  - name: Directum: dirrx.galaktika-it.ru
     url: https://dirrx.galaktika-it.ru/
 
 status-website:
