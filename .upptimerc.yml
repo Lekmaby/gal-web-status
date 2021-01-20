@@ -4,33 +4,33 @@ repo: gal-web-status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Site: galaktika-it.ru
-    url: https://galaktika-it.ru/
-  - name: VuzPortal: vuzportal.ru
-    url: https://vuzportal.ru/
-  - name: Demo VuzPortal: demo.vuzportal.ru
-    url: https://demo.vuzportal.ru/
-  - name: NPM: npm.vuzportal.ru:4873
-    url: http://npm.vuzportal.ru:4873/
-  - name: LKA Test: lka-v6.vuzportal.ru
-    url: https://lka-v6.vuzportal.ru/
-  - name: Directum: dirrx.galaktika-it.ru
-    url: https://dirrx.galaktika-it.ru/
+  - name: Site - galaktika-it.ru
+    url: "https://galaktika-it.ru/"
+  - name: VuzPortal - vuzportal.ru
+    url: "https://vuzportal.ru/"
+  - name: Demo VuzPortal - demo.vuzportal.ru
+    url: "https://demo.vuzportal.ru/"
+  - name: NPM - npm.vuzportal.ru:4873
+    url: "http://npm.vuzportal.ru:4873/"
+  - name: LKA Test - lka-v6.vuzportal.ru
+    url: "https://lka-v6.vuzportal.ru/"
+  - name: Directum - dirrx.galaktika-it.ru
+    url: "https://dirrx.galaktika-it.ru/"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /gal-web-status
-  logoUrl: https://galaktika-it.ru/wp-content/uploads/2019/09/r_blue_on_tp_crop.png
-  name: Галактика ИТ
+  baseUrl: "/gal-web-status"
+  logoUrl: "https://galaktika-it.ru/wp-content/uploads/2019/09/r_blue_on_tp_crop.png"
+  name: "Галактика ИТ"
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Статус систем
+  introMessage: "Статус систем"
   navbar:
-    - title: Статус
+    - title: "Статус"
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: "https://github.com/$OWNER/$REPO"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
