@@ -1,50 +1,50 @@
 [
   {
-    "name": "Site",
+    "name": "Site - galaktika-it.ru",
     "url": "https://galaktika-it.ru/",
-    "slug": "site",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 1983
+    "slug": "site-galaktika-it-ru",
+    "status": "down",
+    "uptime": "14.94%",
+    "time": 0
   },
   {
-    "name": "VuzPortal",
+    "name": "VuzPortal - vuzportal.ru",
     "url": "https://vuzportal.ru/",
-    "slug": "vuz-portal",
+    "slug": "vuz-portal-vuzportal-ru",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1211
+    "time": 1267
   },
   {
-    "name": "Demo VuzPortal",
+    "name": "Demo VuzPortal - demo.vuzportal.ru",
     "url": "https://demo.vuzportal.ru/",
-    "slug": "demo-vuz-portal",
+    "slug": "demo-vuz-portal-demo-vuzportal-ru",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1247
+    "time": 1246
   },
   {
-    "name": "NPM",
+    "name": "NPM - npm.vuzportal.ru:4873",
     "url": "http://npm.vuzportal.ru:4873/",
-    "slug": "npm",
+    "slug": "npm-npm-vuzportal-ru-4873",
     "status": "up",
     "uptime": "100.00%",
-    "time": 825
+    "time": 798
   },
   {
-    "name": "LKA Test",
+    "name": "LKA Test - lka-v6.vuzportal.ru",
     "url": "https://lka-v6.vuzportal.ru/",
-    "slug": "lka-test",
+    "slug": "lka-test-lka-v6-vuzportal-ru",
     "status": "up",
     "uptime": "100.00%",
-    "time": 858
+    "time": 1090
   },
   {
-    "name": "Directum",
+    "name": "Directum - dirrx.galaktika-it.ru",
     "url": "https://dirrx.galaktika-it.ru/",
-    "slug": "directum",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 1201
+    "slug": "directum-dirrx-galaktika-it-ru",
+    "status": "down",
+    "uptime": "5.96%",
+    "time": 0
   }
 ]
