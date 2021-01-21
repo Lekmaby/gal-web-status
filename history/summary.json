@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-21": 723,
+      "2021-01-21": 954,
       "2021-01-20": 776
     }
   },
@@ -25,36 +25,40 @@
     "url": "https://vuzportal.ru/",
     "icon": "https://favicons.githubusercontent.com/vuzportal.ru",
     "slug": "vuz-portal-vuzportal-ru",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 1240,
     "timeDay": 1212,
     "timeWeek": 1240,
     "timeMonth": 1240,
     "timeYear": 1240,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-21": 2
+    }
   },
   {
     "name": "Demo VuzPortal - demo.vuzportal.ru",
     "url": "https://demo.vuzportal.ru/",
     "icon": "https://favicons.githubusercontent.com/demo.vuzportal.ru",
     "slug": "demo-vuz-portal-demo-vuzportal-ru",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1295,
     "timeDay": 1343,
     "timeWeek": 1295,
     "timeMonth": 1295,
     "timeYear": 1295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-21": 0
+    }
   },
   {
     "name": "NPM - npm.vuzportal.ru:4873",
@@ -98,11 +102,11 @@
     "icon": "https://favicons.githubusercontent.com/dirrx.galaktika-it.ru",
     "slug": "directum-dirrx-galaktika-it-ru",
     "status": "up",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "13.34%",
+    "uptimeDay": "16.01%",
+    "uptimeWeek": "13.34%",
+    "uptimeMonth": "13.34%",
+    "uptimeYear": "13.34%",
     "time": 1049,
     "timeDay": 1049,
     "timeWeek": 1049,
