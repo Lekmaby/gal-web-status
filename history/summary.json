@@ -2,49 +2,115 @@
   {
     "name": "Site - galaktika-it.ru",
     "url": "https://galaktika-it.ru/",
+    "icon": "https://favicons.githubusercontent.com/galaktika-it.ru",
     "slug": "site-galaktika-it-ru",
     "status": "down",
-    "uptime": "6.06%",
-    "time": 0
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-01-21": 43,
+      "2021-01-20": 776
+    }
   },
   {
     "name": "VuzPortal - vuzportal.ru",
     "url": "https://vuzportal.ru/",
+    "icon": "https://favicons.githubusercontent.com/vuzportal.ru",
     "slug": "vuz-portal-vuzportal-ru",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1267
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1240,
+    "timeDay": 1240,
+    "timeWeek": 1240,
+    "timeMonth": 1240,
+    "timeYear": 1240,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Demo VuzPortal - demo.vuzportal.ru",
     "url": "https://demo.vuzportal.ru/",
+    "icon": "https://favicons.githubusercontent.com/demo.vuzportal.ru",
     "slug": "demo-vuz-portal-demo-vuzportal-ru",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1246
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1295,
+    "timeDay": 1295,
+    "timeWeek": 1295,
+    "timeMonth": 1295,
+    "timeYear": 1295,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NPM - npm.vuzportal.ru:4873",
     "url": "http://npm.vuzportal.ru:4873/",
+    "icon": "https://favicons.githubusercontent.com/npm.vuzportal.ru",
     "slug": "npm-npm-vuzportal-ru-4873",
     "status": "up",
     "uptime": "100.00%",
-    "time": 798
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 821,
+    "timeDay": 821,
+    "timeWeek": 821,
+    "timeMonth": 821,
+    "timeYear": 821,
+    "dailyMinutesDown": {}
   },
   {
     "name": "LKA Test - lka-v6.vuzportal.ru",
     "url": "https://lka-v6.vuzportal.ru/",
+    "icon": "https://favicons.githubusercontent.com/lka-v6.vuzportal.ru",
     "slug": "lka-test-lka-v6-vuzportal-ru",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1090
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1148,
+    "timeDay": 1148,
+    "timeWeek": 1148,
+    "timeMonth": 1148,
+    "timeYear": 1148,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Directum - dirrx.galaktika-it.ru",
     "url": "https://dirrx.galaktika-it.ru/",
+    "icon": "https://favicons.githubusercontent.com/dirrx.galaktika-it.ru",
     "slug": "directum-dirrx-galaktika-it-ru",
     "status": "down",
-    "uptime": "4.53%",
-    "time": 0
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-01-21": 43,
+      "2021-01-20": 775
+    }
   }
 ]
