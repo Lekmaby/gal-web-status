@@ -4,16 +4,16 @@
     "url": "https://galaktika-it.ru/",
     "icon": "https://favicons.githubusercontent.com/galaktika-it.ru",
     "slug": "site-galaktika-it-ru",
-    "status": "down",
+    "status": "up",
     "uptime": "98.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.39%",
     "time": 1972,
-    "timeDay": 0,
-    "timeWeek": 1964,
-    "timeMonth": 2003,
+    "timeDay": 2029,
+    "timeWeek": 1971,
+    "timeMonth": 2008,
     "timeYear": 1972,
     "dailyMinutesDown": {
       "2021-02-25": 20,
@@ -35,7 +35,7 @@
     "time": 1095,
     "timeDay": 1111,
     "timeWeek": 1181,
-    "timeMonth": 1116,
+    "timeMonth": 1123,
     "timeYear": 1095,
     "dailyMinutesDown": {
       "2021-01-21": 35
@@ -55,7 +55,7 @@
     "time": 967,
     "timeDay": 864,
     "timeWeek": 964,
-    "timeMonth": 992,
+    "timeMonth": 994,
     "timeYear": 967,
     "dailyMinutesDown": {
       "2021-01-21": 33
@@ -75,7 +75,7 @@
     "time": 582,
     "timeDay": 712,
     "timeWeek": 604,
-    "timeMonth": 613,
+    "timeMonth": 611,
     "timeYear": 582,
     "dailyMinutesDown": {}
   },
@@ -93,7 +93,7 @@
     "time": 877,
     "timeDay": 880,
     "timeWeek": 876,
-    "timeMonth": 916,
+    "timeMonth": 919,
     "timeYear": 877,
     "dailyMinutesDown": {}
   },
@@ -111,7 +111,7 @@
     "time": 855,
     "timeDay": 843,
     "timeWeek": 867,
-    "timeMonth": 895,
+    "timeMonth": 899,
     "timeYear": 855,
     "dailyMinutesDown": {
       "2021-03-16": 27,
