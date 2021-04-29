@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/galaktika-it.ru",
     "slug": "site-galaktika-it-ru",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.52%",
+    "uptimeYear": "98.53%",
     "time": 1964,
     "timeDay": 1603,
     "timeWeek": 1867,
@@ -26,9 +26,9 @@
     "url": "https://vuzportal.ru/",
     "icon": "https://favicons.githubusercontent.com/vuzportal.ru",
     "slug": "vuz-portal-vuzportal-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -38,6 +38,7 @@
     "timeMonth": 1167,
     "timeYear": 1111,
     "dailyMinutesDown": {
+      "2021-04-29": 0,
       "2021-01-21": 35
     }
   },
@@ -46,9 +47,9 @@
     "url": "https://demo.vuzportal.ru/",
     "icon": "https://favicons.githubusercontent.com/demo.vuzportal.ru",
     "slug": "demo-vuz-portal-demo-vuzportal-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -58,6 +59,7 @@
     "timeMonth": 983,
     "timeYear": 970,
     "dailyMinutesDown": {
+      "2021-04-29": 0,
       "2021-01-21": 33
     }
   },
@@ -84,9 +86,9 @@
     "url": "https://lka-v6.vuzportal.ru/",
     "icon": "https://favicons.githubusercontent.com/lka-v6.vuzportal.ru",
     "slug": "lka-test-lka-v6-vuzportal-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,7 +97,9 @@
     "timeWeek": 928,
     "timeMonth": 925,
     "timeYear": 881,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-29": 0
+    }
   },
   {
     "name": "Directum - dirrx.galaktika-it.ru",
@@ -103,11 +107,11 @@
     "icon": "https://favicons.githubusercontent.com/dirrx.galaktika-it.ru",
     "slug": "directum-dirrx-galaktika-it-ru",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "98.92%",
     "time": 859,
     "timeDay": 694,
     "timeWeek": 906,
