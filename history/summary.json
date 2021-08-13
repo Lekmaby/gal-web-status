@@ -83,7 +83,7 @@
     "url": "http://npm.vuzportal.ru:4873/",
     "icon": "https://favicons.githubusercontent.com/npm.vuzportal.ru",
     "slug": "npm-npm-vuzportal-ru-4873",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "98.93%",
     "uptimeWeek": "98.08%",
@@ -95,6 +95,7 @@
     "timeMonth": 628,
     "timeYear": 589,
     "dailyMinutesDown": {
+      "2021-08-13": 0,
       "2021-08-12": 15,
       "2021-08-11": 25,
       "2021-08-10": 4,
